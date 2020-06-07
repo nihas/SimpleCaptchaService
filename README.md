@@ -1,5 +1,4 @@
 # SimpleCaptchaService
-Android captcha service which generates captcha and validates. Project written in kotlin
 
 "SimpleCaptchaService" is a simple captcha service which will generates captcha image at runtime and verifies.
 
