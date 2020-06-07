@@ -3,7 +3,7 @@ Android captcha service which generates captcha and validates. Project written i
 
 "SimpleCaptchaService" is a simple captcha service which will generates captcha image at runtime and verifies.
 
-Below samples screenshot of the app:
+Sample screenshot of the app:
 
 <img src="/screenshots/captcha1.jpg" >
 
