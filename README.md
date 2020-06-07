@@ -3,7 +3,7 @@ Android captcha service which generates captcha and validates. Project written i
 
 "SimpleCaptchaService" is a simple captcha service which will generates captcha image at runtime and verifies.
 
-Below samples show the ripple effect in action:
+Below samples screenshot of the app:
 
 <img src="/screenshots/captcha1.jpg" >
 
@@ -12,5 +12,5 @@ Below samples show the ripple effect in action:
 # Download APK
 ### Click on the link below
 
-https://google.com
+[captcha-debug.apk](https://github.com/nihas/SimpleCaptchaService/raw/master/screenshots/captcha-debug.apk)
 
